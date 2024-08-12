@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>HDU校园VPN设置</title>
+      <link href="/post/caa65886.html"/>
+      <url>/post/caa65886.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="设置校园VPN"><a href="#设置校园VPN" class="headerlink" title="设置校园VPN"></a>设置校园VPN</h1><h2 id="什么是校园-VPN以下内容来自GPT-4o"><a href="#什么是校园-VPN以下内容来自GPT-4o" class="headerlink" title="什么是校园(VPN以下内容来自GPT-4o)"></a>什么是校园(VPN<strong>以下内容来自GPT-4o</strong>)</h2><p>校园VPN（Virtual Private Network，虚拟专用网络）是一种技术，允许学生、教职工和校外人员通过互联网安全地访问校园内部网络资源。以下是校园VPN的主要功能和作用：</p><h3 id="校园VPN的功能："><a href="#校园VPN的功能：" class="headerlink" title="校园VPN的功能："></a>校园VPN的功能：</h3><ol><li><p><strong>远程访问校园网络</strong>：</p><ul><li>校园VPN使得校外人员能够像在校园内一样访问校园的内部网络资源，如图书馆数据库、内部网站、文件共享系统和科研资源等。</li></ul></li><li><p><strong>安全性</strong>：</p><ul><li>VPN加密用户的互联网连接，确保数据传输的安全性，防止敏感信息被窃取或篡改。这在连接公共网络（如咖啡店、机场的Wi-Fi）时尤为重要。</li></ul></li><li><p><strong>隐私保护</strong>：</p><ul><li>VPN通过掩盖用户的真实IP地址，保护用户的在线隐私，避免网络追踪和监控。</li></ul></li><li><p><strong>跨越地理限制</strong>：</p><ul><li>一些学校的资源可能因地理位置限制而无法在校外访问。通过校园VPN，用户可以绕过这些限制，访问需要的资源。</li></ul></li></ol><h3 id="使用场景："><a href="#使用场景：" class="headerlink" title="使用场景："></a>使用场景：</h3><ol><li><p><strong>校外访问</strong>：</p><ul><li>学生在家或校外实习时，可以通过VPN访问需要的学习资源和工具，如在线课程平台、学术期刊、内部邮件系统等。</li></ul></li><li><p><strong>教师远程工作</strong>：</p><ul><li>教师和研究人员在校外进行教学准备或科研工作时，可以使用VPN访问内部系统，上传或下载文件，访问教学管理系统等。</li></ul></li><li><p><strong>国际学生</strong>：</p><ul><li>对于身在国外的国际学生，校园VPN可以帮助他们访问仅在校内开放的教育资源和服务。</li></ul></li></ol><h3 id="如何使用校园VPN："><a href="#如何使用校园VPN：" class="headerlink" title="如何使用校园VPN："></a>如何使用校园VPN：</h3><ol><li><p><strong>下载和安装VPN客户端</strong>：</p><ul><li>大多数学校会提供一个官方的VPN客户端供下载，常见的有Cisco AnyConnect、OpenVPN等。</li></ul></li><li><p><strong>配置VPN</strong>：</p><ul><li>在VPN客户端中输入学校提供的VPN服务器地址、用户名和密码进行配置。</li></ul></li><li><p><strong>连接VPN</strong>：</p><ul><li>完成配置后，启动VPN客户端并连接到学校的VPN服务器，成功连接后就可以访问校内资源了。</li></ul></li><li><p><strong>断开连接</strong>：</p><ul><li>完成工作后，可以通过VPN客户端断开连接，以恢复正常的互联网访问状态。</li></ul></li></ol><h3 id="注意事项："><a href="#注意事项：" class="headerlink" title="注意事项："></a>注意事项：</h3><ul><li><strong>账号安全</strong>：使用VPN时，需妥善保管登录信息，避免泄露。</li><li><strong>网络速度</strong>：VPN可能会稍微降低网速，因为所有数据都要通过VPN服务器进行加密和解密。</li><li><strong>法律和政策</strong>：使用VPN时，务必遵守学校的相关政策和法律法规，不进行任何违反规定的操作。</li></ul><p>校园VPN是现代教育环境中不可或缺的工具，特别是在远程学习和跨国交流日益频繁的今天。</p><h2 id="如何连上HDU的校园VPN"><a href="#如何连上HDU的校园VPN" class="headerlink" title="如何连上HDU的校园VPN"></a>如何连上HDU的校园VPN</h2><ol><li>首先进入<a href="https://www.hdu.edu.cn/main.htm">杭电官网</a>  </li><li>在主页点击VPN登录<br>若正确看到此界面：<img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/../image/6c696af119497ff6c458a0d7442e75f.png" alt="6c696af119497ff6c458a0d7442e75f"></li><li>根据提示注册登录即可</li></ol><h3 id="网页版"><a href="#网页版" class="headerlink" title="网页版"></a>网页版</h3><p>就这样就好了<br>以后登录就点击这个链接<a href="https://webvpn.hdu.edu.cn/">杭州电子科技大学 WebVPN</a></p><h3 id="软件版"><a href="#软件版" class="headerlink" title="软件版"></a>软件版</h3><p> 点击<a href="https://vpn.hdu.edu.cn/">此处</a>下载软件<br> 或者直接搜索下载easy connect 这款软件<br> 软件打开要求输入服务器地址，则输入<br> <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://vpn.hdu.edu.cn</span><br></pre></td></tr></table></figure><br> 然后输入自己的账号密码就可以了</p><h3 id="警告"><a href="#警告" class="headerlink" title="警告"></a>警告</h3><p> 我自己安装了软件版，但现在开始写文档查资料时，还是决定把这款软件卸载了，原因如下：</p><ol><li><p>软件曾经被曝出来有问题，详情请见</p><blockquote><p><a href="https://blog.csdn.net/Staveabc/article/details/102732431">例行检查软件列表，突然发现不明sangforvnc应用</a><br><a href="https://www.jianshu.com/p/3e81fa164fb1">警惕Easy Connect，此工具会偷偷在后台上传数据包！</a><br><a href="https://blog.csdn.net/weixin_71246590/article/details/139046741">【血汗泪心路历程】怎么彻底删掉Sangfor文件？怎么彻底删除easyconnect？删除sangfor后网络坏了、某些app无法正常启动怎么解决？</a></p></blockquote></li><li><p>我自己电脑里有不少有关网络的软件，各种加速器很棘手</p></li><li><p>当我想卸载的时候，打开Geek Uninstaller 却发现了最新的两个软件一个是EasyConnect，另一个是SangFor，一个我压根不认识的流氓软件。。。谁能想我就根据官网下载的安装包，自己就是个流氓啊啊。。。当我卸载了EC了以后，还想卸载SF，Geek已经找不到SF了<img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/../image/0573162cd943360aa96bb89acc73744.png" alt="0573162cd943360aa96bb89acc73744"></p></li></ol><p>用everything查找sangfor：  <img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/../image/ee1d98d4916cff741b99b061a93e722.png" alt="ee1d98d4916cff741b99b061a93e722"></p><p>接下来的卸载多次重启，从注册表，修改用户权限，更改程序后缀名，关闭自启动，等等等等重启4次才得以解决  </p><p>所以没什么事，<strong>千万不要下载这款软件</strong>，如果你在乎自己隐私的话  </p><p>虽然现在我己经扫盘无数次已经找不到这款软件的任何残留了，但心里还是觉得不太干净  </p><p>非常介意  </p><p>所以下载这款软件前先做好准备，实在不行，去虚拟机里面使用  </p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> HDU指南 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>24暑假C语言PTA先行课习题</title>
       <link href="/post/42283b9e.html"/>
       <url>/post/42283b9e.html</url>
