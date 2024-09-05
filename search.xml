@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Github Copilot HDU学生教育申请</title>
+      <link href="/post/undefined.html"/>
+      <url>/post/undefined.html</url>
+      
+        <content type="html"><![CDATA[<h1>我的环境</h1><ul><li>使用学校宿舍宽带</li><li>未使用魔法</li><li>拥有校园一卡通</li></ul><h1>前景提要</h1><p>暑假看了学长的一篇文章,自己便去申请Github Copilot 的教育免费福利</p><p>[『GitHub』学生身份认证问题](<a href="https://nickxu.me/2022/06/29/%E3%80%8EGitHub%E3%80%8F%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E9%97%AE%E9%A2%98/">『GitHub』学生身份认证问题 | NX の 博客 (nickxu.me)</a>)</p><p>但是当初的我并没有学信网证明,人也不在学校内</p><p>所以尝试了P图学信网,尝试了进入教务网站,并添加诸多时间等,但都失败,今日一次成功,便于此写下经历</p><h1>申请准备</h1><ul><li>在学校内 (我连接了宿舍的宽带)</li><li>拥有Github账号</li><li>拥有一卡通</li><li>拥有学校的邮箱 <a href="mailto:XXXXXXXX@hdu.edu.cn">XXXXXXXX@hdu.edu.cn</a></li></ul><h1>教程</h1><h2 id="打开教育认证网站">打开教育认证网站</h2><p><a href="https://education.github.com/">https://education.github.com/</a> 登录自己的Github账号</p><p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://imghub.zyzblog.com/2024/09/7c2f96101242458ce4311900029e9325.png" alt="eb1dff54b6b17fd353790a8ae4f370d">选择我是学生,并输入自己的学校邮箱进行认证,需要到学校邮箱里进行验证</p><h2 id="对一卡通进行拍照">对一卡通进行拍照</h2><p>注意我这里的拍照并没有使用扫描软件进行处理</p><p>而是选择直出</p><p>对于照片的大小自己处理一下就好了</p><p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://imghub.zyzblog.com/2024/09/426beebdffd3164dac8084dc5eb0dd8d.png" alt="image-20240905210250061"></p><p>在个人主页下点击Copilot 或者<a href="https://github.com/settings/copilot">https://github.com/settings/copilot</a><br>看到如图所示界面即证明你成功了</p><p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://imghub.zyzblog.com/2024/09/ffb57de83afcf2577ccce849f701dc0a.png" alt="image-20240905212959169"></p><p>接下来就可以按照<a href="https://docs.github.com/en/copilot">文档</a>接入各类IDE或者其他平台啦!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+          <category> HDU指南 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HDU指南 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>teamspeak3部署至Ubuntu</title>
       <link href="/post/6f4e31db.html"/>
       <url>/post/6f4e31db.html</url>
