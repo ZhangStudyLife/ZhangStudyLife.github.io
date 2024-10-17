@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>基础元器件认识</title>
+      <link href="/post/60df3a42.html"/>
+      <url>/post/60df3a42.html</url>
+      
+        <content type="html"><![CDATA[<h1>2024智能车预招新硬件第一次实践任务</h1><p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://imghub.zyzblog.com/2024/10/e75bb33cea62c1cc6130803637e9b0b4.png" alt=""></p><h2 id="电阻">电阻</h2><h3 id="1-物理特性">1. 物理特性</h3><ol><li><p><strong>阻碍电流</strong><br>阻碍电流,电流通过电阻时,电子与电阻材料中的原子进行碰撞,使得部分电子的运动速度降低,</p><p>电流受到阻碍.在碰撞过程之中,电子的动能(电能)降低,转换为热能,也即电阻在通电时会发热.</p><p>​</p></li><li><p><strong>电阻的阻值受多方面因素影响</strong></p></li></ol><ul><li>电阻的材料</li><li>电阻的三维(例如长宽高)</li><li>电阻的温度</li><li>环境温度(对于一般的电阻会有略微影响,对于热敏电阻尤为)</li><li>环境湿度(对于一般的电阻会有略微影响,对于湿敏电阻尤为)</li><li>环境光线(对于一般的电阻可能会有略微影响,对于光敏电阻尤为)</li><li>等等等等</li></ul><ol start="3"><li><p><strong>电阻不随频率变化</strong><br>电阻对电流的阻碍与频率无关，既可以阻止直流电，也可以阻碍交流电<br>并且其阻碍作用在直流电和交流电下是相同的</p></li><li><p><strong>纯电阻遵循欧姆定律</strong></p></li></ol><ul><li><p>纯电阻元件（如铜线电阻、碳膜电阻等）遵循欧姆定律，在电压和电流之间表现为线性关系。</p><p>​<strong>纯电阻电路</strong>是指仅含有理想电阻元件的电路。电压 V 与电流 I 之间的关系是线性的 也就是说它们成正比：<br>​V=IR<br>​R是电阻值 且<strong>不随电压或电流的变化而变化</strong></p></li><li><p>非线性电阻元件（如半导体、二极管等）则不遵循欧姆定律，它们的电压和电流之间的关系可能是非线性的</p></li></ul><h3 id="2-常见种类和优缺点">2. 常见种类和优缺点</h3><p>省流:</p><h4 id="按封装方式分类：">按封装方式分类：</h4><table><thead><tr><th>封装方式</th><th>特点</th><th>优点</th><th>缺点</th><th>图片</th></tr></thead><tbody><tr><td><strong>引脚电阻</strong></td><td>有长引脚，插入PCB板孔焊接</td><td>易于手工焊接，适合低密度和大功率电路</td><td>占用空间大，不适合高密度电路</td><td><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://imghub.zyzblog.com/2024/10/b3401341a52f8dd0a43a590e6f509967.png" alt=""></td></tr><tr><td><strong>贴片电阻</strong></td><td>无引脚，焊接在PCB表面焊盘</td><td>小型化，适合自动化贴片生产，适合高密度电路设计</td><td>不适合大电流或大功率应用，散热性能较差</td><td><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://imghub.zyzblog.com/2024/10/5c04e8ba75e40a685972c86a76b13a42.png" alt=""></td></tr></tbody></table><h4 id="按材料和工艺分类：">按材料和工艺分类：</h4><table><thead><tr><th>材料/工艺</th><th>特点</th><th>优点</th><th>缺点</th><th>图片</th></tr></thead><tbody><tr><td><strong>碳膜电阻</strong></td><td>在基材上涂覆碳膜制成</td><td>价格低廉，适合一般用途</td><td>精度较低，温度稳定性差</td><td><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://imghub.zyzblog.com/2024/10/a3556eb8c77eea1f5b9ad113c82d419a.jpeg" alt="img"></td></tr><tr><td><strong>金属膜电阻</strong></td><td>在基材上涂覆金属膜，通常为镍铬合金</td><td>精度高，温度稳定性好，噪声低</td><td>成本较高，耐大功率能力较弱</td><td><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://imghub.zyzblog.com/2024/10/7a576e8f30da46d959f475950d9c26ea.jpeg" alt="img"></td></tr><tr><td><strong>线绕电阻</strong></td><td>由电阻丝绕在绝缘材料上制成</td><td>能承受大功率、高温，精度高</td><td>体积较大，存在电感效应，不适用于高频电路</td><td><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://imghub.zyzblog.com/2024/10/d1a9d7705ff538ee010ba49ee25c6174.jpeg" alt="img"></td></tr><tr><td><strong>薄膜电阻</strong></td><td>通过金属薄膜沉积制成</td><td>稳定性好，适合高精度电路应用</td><td>成本较高，承载大电流或大功率能力较差</td><td><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://imghub.zyzblog.com/2024/10/3f658c77ea18add6fb1658b22b6b1a16.png" alt="image-20241017122258996"></td></tr><tr><td><strong>热敏电阻</strong></td><td>电阻值随温度变化</td><td>对温度敏感，可用于温度检测和保护电路</td><td>电阻值随环境温度变化，不适合一般电路应用</td><td><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://imghub.zyzblog.com/2024/10/3122d13e19a980845a2b5d3296a57fe3.jpeg" alt="img"></td></tr><tr><td><strong>光敏电阻</strong></td><td>电阻值随光强变化</td><td>灵敏度高，广泛用于光电传感器</td><td>受环境光线影响大，电阻值不稳定</td><td><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://imghub.zyzblog.com/2024/10/89246650419d95c59134f015384d2728.png" alt="img"></td></tr></tbody></table><h4 id="按特性分类：">按特性分类：</h4><table><thead><tr><th>特性分类</th><th>特点</th><th>优点</th><th>缺点</th></tr></thead><tbody><tr><td><strong>固定电阻</strong></td><td>电阻值恒定不变，广泛用于各种电子电路</td><td>稳定可靠，适合大多数电路需求</td><td>无法根据需求调整电阻值</td></tr><tr><td><strong>可变电阻</strong></td><td>可手动或自动调节电阻值，如电位器、调光器等</td><td>电阻值可调，灵活应用于音量控制、亮度调节等场合</td><td>调节范围有限，易受环境影响</td></tr><tr><td><strong>热敏电阻</strong></td><td>电阻值随温度变化而改变</td><td>对温度敏感，适用于温度检测、过热保护</td><td>电阻值不稳定，受环境温度影响较大</td></tr><tr><td><strong>压敏电阻</strong></td><td>电阻值随电压变化而改变，常用于过压保护电路</td><td>适用于过压保护电路，可快速响应电压变化</td><td>响应速度有限，易老化</td></tr></tbody></table><hr>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 学习 硬件 任务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>背包问题</title>
       <link href="/post/b2626942.html"/>
       <url>/post/b2626942.html</url>
